@@ -6,7 +6,7 @@
       "phone": "333-444-555",
       "email": "xiejie@gmail.com",
       "education": "adsfasfd",
-      "graduationschool": "asdfasfd",
+      "graductionSchool": "asdfasfd",
       "profession": "asdfasdf",
       "profile": "asdfasfdasdf",
       "id": 1
@@ -17,31 +17,31 @@
       "phone": "123-345-678",
       "email": "yajing@hotmail.com",
       "education": "fasdfasfd",
-      "graduationschool": "fasfasdf",
+      "graductionSchool": "fasfasdf",
       "profession": "sdfasdfafd",
       "profile": "asdfasdf",
       "id": 3
     },
     {
       "name": "xizhi",
-      "age": 47,
+      "age": "22",
       "phone": "13112341234",
       "email": "1234567@qq.com",
       "education": "硕士",
-      "graduationschool": "北京大学",
+      "graductionSchool": "北京大学",
       "profession": "前端开发工程师",
       "profile": "大家好!",
       "id": 2
     },
     {
-      "name": "z",
+      "name": "zzzz",
       "age": "18",
-      "phone": "13312341234",
+      "phone": "18888888888",
       "email": "123@qq.com",
       "education": "本科",
       "graductionSchool": "清华",
       "profession": "工程师",
-      "profile": "哈哈哈哈",
+      "profile": "哈哈哈哈888",
       "id": 4
     }
   ],
